@@ -1,0 +1,111 @@
+Pocket Touchpad Source-Available License 1.0
+
+Copyright (c) 2026 Dongheng Wu and Pocket Touchpad contributors.
+
+This is a project-specific license, not a standard open-source license.
+Commercial work using Pocket Touchpad is permitted. Commercialization of Pocket Touchpad
+itself, its source code, or modified versions is not permitted by this license.
+
+1. Definitions
+
+"Software" means the original Pocket Touchpad code, documentation, and project-owned
+assets supplied with this license, in source or compiled form. It excludes
+third-party material identified as being under a separate license.
+
+"Modified Version" means a modification, adaptation, port, or other derivative
+of the Software, including a product or component containing a substantial
+portion of its code. Independent works are not Modified Versions merely
+because the Software was used to create, edit, operate, or deliver them.
+
+"Your Works" means the documents, designs, images, videos, software, other
+creative or professional work, and service deliverables you create or operate
+using the Software as a tool. Your Works do not include the Software, Modified
+Versions, or substantial portions of their code incorporated into a deliverable.
+
+2. Permissions
+
+Subject to this license, the copyright holders grant you a worldwide,
+royalty-free, non-exclusive license to use, run, reproduce, study, and modify
+the Software. These permissions include personal, educational, professional,
+and internal business use, and use of Modified Versions for those purposes.
+
+You may use the Software to create, edit, or deliver Your Works for commercial
+purposes, including paid client projects, employment, business operations,
+and services performed using the Software as a tool. You may sell, license,
+and distribute Your Works and retain your rights in them. This license does
+not require you to disclose their source, license them under these terms,
+credit Pocket Touchpad in them, or pay royalties merely because you used the Software.
+
+You may distribute the Software and Modified Versions without charge for
+noncommercial sharing, subject to sections 3 and 4. This includes free source
+code forks and free compiled builds that are not part of a commercial offering.
+
+3. Restriction on Commercializing the Software
+
+You may not sell, rent, commercially sublicense, charge for access to, or
+otherwise offer the Software or a Modified Version as a commercial product
+or service, in source or compiled form, in whole or in substantial part.
+
+This restriction includes:
+
+- Selling or charging for source code, compiled apps, modified builds, ports,
+  activation, downloads, subscriptions, or access to their functionality.
+- Including or integrating the Software or a Modified Version into a commercial
+  app, device, SDK, paid bundle, or other commercial product or service.
+- Hosting or providing the Software's functionality to others as a commercial
+  service, including advertising-supported or paid-tier offerings.
+
+Renaming the Software, changing its interface, making modifications, or
+providing it as a nominally free component of a commercial offering does not
+remove this restriction.
+
+For clarity, ordinary use of the Software within a business, including internal
+modifications for its own workflow, is permitted. Charging clients for Your
+Works or services performed with the Software as a tool is also permitted.
+These activities do not commercialize the Software merely because they earn
+revenue. The restriction applies when the Software, a Modified Version, or its
+code or functionality is itself supplied as part of the commercial offering.
+
+No right to commercialize the Software under this section is granted here.
+
+4. Redistribution and Notices
+
+When distributing any permitted copy of the Software or a Modified Version,
+you must include this license, NOTICE, applicable third-party notices, and
+existing copyright notices. Clearly identify a Modified Version as modified.
+You may not remove these restrictions, represent that recipients have rights
+not granted here, or relicense the covered Software under terms that permit
+its commercialization. Recipients receive their permissions to the covered
+Software directly under this license.
+
+5. Third-Party Material, Outputs, and Marks
+
+Third-party material retains its own license. This license does not restrict
+rights independently granted for such material or grant rights the copyright
+holders do not own. Third-party notices do not change the license for the
+original Pocket Touchpad portions of the Software.
+
+The output permissions above do not grant rights in third-party content that
+you use in Your Works. No trademark rights, endorsement, or affiliation are
+granted by this license. Rights provided by applicable law, including any
+applicable fair-use rights, are not limited by these terms.
+
+6. Termination
+
+Your permissions under this license terminate if you violate its terms. For
+a first violation, they are reinstated if you fully remedy the violation
+within 30 days after receiving written notice. Termination does not change
+the ownership of Your Works or the rights of recipients who comply with this
+license. Otherwise, all rights not expressly granted are reserved.
+
+7. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY LAW,
+THE COPYRIGHT HOLDERS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+The English text in this LICENSE is the governing license. Translations and
+summaries elsewhere in the repository are provided for convenience.

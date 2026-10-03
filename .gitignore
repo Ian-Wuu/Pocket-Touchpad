@@ -1,0 +1,18 @@
+build/
+build-mac/
+build-device/
+dist/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Local signing, simulator output and private deployment history
+Config/Local.xcconfig
+.local/
+docs/BuildStatus.md
+DerivedData/
+*.xcarchive
+*.ipa
+
+__pycache__/
+*.pyc

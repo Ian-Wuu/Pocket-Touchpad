@@ -1,0 +1,70 @@
+{
+  "captured": "2026-10-03",
+  "device": "iPhone 17 Pro Simulator",
+  "runtime": "iOS 26.2",
+  "build": "Debug simulator, Xcode-beta",
+  "source": "Actual SwiftUI app; offline connection and saved Mac fixtures",
+  "network": "Disabled in preview; no real Mac connection, input, or pairing credentials",
+  "files": [
+    {
+      "file": "keyboard-dark.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "keyboard-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "landscape-dark.png",
+      "width": 2622,
+      "height": 1206
+    },
+    {
+      "file": "landscape-drag-dark.png",
+      "width": 2622,
+      "height": 1206
+    },
+    {
+      "file": "landscape-light.png",
+      "width": 2622,
+      "height": 1206
+    },
+    {
+      "file": "layout-edit-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "pairing-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "portrait-dark.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "portrait-drag-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "portrait-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "settings-gestures-light.png",
+      "width": 1206,
+      "height": 2622
+    },
+    {
+      "file": "settings-layout-light.png",
+      "width": 1206,
+      "height": 2622
+    }
+  ]
+}
